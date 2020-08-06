@@ -5,7 +5,7 @@ Install all dependencies\
 Then run`python main.py` or `python3 main.py`
 ## Description
 A running game made with pygame\
-The idea is to move the background and pipe faster as we increment level\
+Press space to jump\
 Inspired by Chrome Dino Run
 ### Goals
 Avoid all obstacles by jumping and try to survive 10 levels
