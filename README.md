@@ -14,6 +14,7 @@ You need to have `python 3.x`,`pygame` installed
 ## ScreenShots
 ![screenshot](screenshot.gif)
 ## Todos
+- [ ] write design doc and reformat code
 - [ ] Add new skins
 - [ ] Add coin feature
 - [ ] Add more obstacles
